@@ -113,6 +113,7 @@ begin
   writeln('Наши студенты сейчас: ');
   WriteMas(M, n);
   DeleteBads(M, n);
+  writeln; // для красоты
   writeln('Теперь без отчисленных студентов: ');
   WriteMas(M, n);
 
