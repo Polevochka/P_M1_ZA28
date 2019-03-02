@@ -6,4 +6,4 @@
     нулевую оценку.
 
 ### Пример работы прораммы:
-![Image alt](https://github.com/Polevochka/P_ZA_28/raw/master/img/lol.png)
+![Image alt](https://github.com/Polevochka/P_M1_ZA28/raw/master/img/lol.png)
