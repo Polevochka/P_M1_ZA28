@@ -6,6 +6,4 @@
     нулевую оценку.
 
 ### Пример работы прораммы:
-![][logo]
-
-[logo]: img/lol.png "Logo text"
+![lol](img/lol.png)
